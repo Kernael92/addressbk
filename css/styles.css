@@ -1,0 +1,12 @@
+#show-contact {
+   display: none;
+}
+
+.btn {
+   cursor: pointer;
+   color: #0088cc:
+}
+
+.btn.hover {
+   text-decoration: underline;
+}
